@@ -7,7 +7,7 @@ To use the software.
 
 3. It will initialize server at 127.0.0.1 IP.
 
-4. Run the client files, 10 max in cmd: python MultipleCliensClient.py
+4. Run the client files, (10 max) in cmd: python MultipleCliensClient.py
 
 5. To enter the server type the right IP (127.0.0.1).
 
